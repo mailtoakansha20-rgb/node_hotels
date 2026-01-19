@@ -1,0 +1,20 @@
+//---------------------Person-------------------//
+{
+    "name": "Akshita",
+    "age": 6,
+    "work": "manager",
+    "mobile": "7379546560",
+    "email": "akshita@gmail.com",
+    "address": "Pune",
+    "salary": 950000
+}
+
+//---------------------MenuItem-------------------//
+{
+    "name" : "Kadhai Paneer",
+    "price": 350,
+    "taste": "spicy",
+    "is_drink": false,
+    "ingredients": ['paneer', 'capsicum', 'tomatoes', 'cashew'],
+    "num_sales": 0
+}
